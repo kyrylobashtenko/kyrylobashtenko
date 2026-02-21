@@ -76,11 +76,13 @@ Currently based in **Valencia, Spain** 🇪🇸, I've worked across multiple cou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyrylobashtenko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrylobashtenko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kyrylobashtenko&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyrylobashtenko&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyrylobashtenko&theme=tokyonight" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyrylobashtenko&theme=tokyonight&utcOffset=1" height="170" />
 
 </div>
 
