@@ -6,7 +6,7 @@
 
 Building high-performance teams and scalable web platforms
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillbashtenko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylo-bashtenko-frontend-lead/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.bashtenko@gmail.com)
 [![Location](https://img.shields.io/badge/Valencia,_Spain-FF6F00?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
