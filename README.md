@@ -76,11 +76,11 @@ Currently based in **Valencia, Spain** 🇪🇸, I've worked across multiple cou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kirillbashtenko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=kyrylobashtenko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillbashtenko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrylobashtenko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kirillbashtenko&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kyrylobashtenko&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -121,7 +121,7 @@ Currently based in **Valencia, Spain** 🇪🇸, I've worked across multiple cou
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kirillbashtenko&style=flat-square&color=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=kyrylobashtenko&style=flat-square&color=58A6FF" />
 
 *Open to interesting collaborations and opportunities — feel free to reach out!*
 
